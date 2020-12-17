@@ -1,0 +1,35 @@
+html {
+  familia de fuentes : sans-serif;
+}
+
+tabla {
+  colapso de la frontera : colapso;
+  borde : rgb sólido de 2 px ( 200 , 200 , 200 );
+  espacio entre letras : 1 px ;
+  tamaño de fuente : 0.8 rem ;
+}
+
+td ,  th {
+  borde : rgb sólido de 1 px ( 190 , 190 , 190 );
+  relleno : 10 px  20 px ;
+}
+
+th {
+  color de fondo : rgb ( 235 , 235 , 235 );
+}
+
+td {
+  alineación de texto : centro;
+}
+
+tr : nth-child ( even ) td {
+  color de fondo : rgb ( 250 , 250 , 250 );
+}
+
+tr : nth-child ( impar ) td {
+  color de fondo : rgb ( 245 , 245 , 245 );
+}
+
+subtítulo {
+  relleno : 10 px ;
+}
